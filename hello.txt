@@ -9,4 +9,5 @@ hello git!
 hello git!
 hello git!
 hello git!master分支修改
+hello git!hot-fix test
 hello git!
